@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Service_registry/Service_registry.iml" filepath="$PROJECT_DIR$/Service_registry/Service_registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot Microservice.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gatewy/api-gatewy.iml" filepath="$PROJECT_DIR$/api-gatewy/api-gatewy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/employee-service/employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-service/organization-service.iml" filepath="$PROJECT_DIR$/organization-service/organization-service.iml" />
+    </modules>
+  </component>
+</project>
